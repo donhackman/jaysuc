@@ -1,7 +1,7 @@
 #page-container {
   position: relative;
   min-height: 100vh;
-  background-color: black;
+  /*background-color: black;*/
   color: white;
 }
   
@@ -21,9 +21,10 @@
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  background-color: black;
 }
 
 body {
-  background-image: url("./assets/img/ohio.webp");
+  background-image: url("../img/ohio.webp");
   background-repeat: repeat;
 }
